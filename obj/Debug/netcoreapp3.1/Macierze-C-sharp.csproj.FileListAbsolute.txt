@@ -1,0 +1,13 @@
+C:\Users\kukul\git\Macierze-C-sharp\bin\Debug\netcoreapp3.1\Macierze-C-sharp.exe
+C:\Users\kukul\git\Macierze-C-sharp\bin\Debug\netcoreapp3.1\Macierze-C-sharp.deps.json
+C:\Users\kukul\git\Macierze-C-sharp\bin\Debug\netcoreapp3.1\Macierze-C-sharp.runtimeconfig.json
+C:\Users\kukul\git\Macierze-C-sharp\bin\Debug\netcoreapp3.1\Macierze-C-sharp.runtimeconfig.dev.json
+C:\Users\kukul\git\Macierze-C-sharp\bin\Debug\netcoreapp3.1\Macierze-C-sharp.dll
+C:\Users\kukul\git\Macierze-C-sharp\bin\Debug\netcoreapp3.1\Macierze-C-sharp.pdb
+C:\Users\kukul\git\Macierze-C-sharp\obj\Debug\netcoreapp3.1\Macierze-C-sharp.csprojAssemblyReference.cache
+C:\Users\kukul\git\Macierze-C-sharp\obj\Debug\netcoreapp3.1\Macierze-C-sharp.AssemblyInfoInputs.cache
+C:\Users\kukul\git\Macierze-C-sharp\obj\Debug\netcoreapp3.1\Macierze-C-sharp.AssemblyInfo.cs
+C:\Users\kukul\git\Macierze-C-sharp\obj\Debug\netcoreapp3.1\Macierze-C-sharp.csproj.CoreCompileInputs.cache
+C:\Users\kukul\git\Macierze-C-sharp\obj\Debug\netcoreapp3.1\Macierze-C-sharp.dll
+C:\Users\kukul\git\Macierze-C-sharp\obj\Debug\netcoreapp3.1\Macierze-C-sharp.pdb
+C:\Users\kukul\git\Macierze-C-sharp\obj\Debug\netcoreapp3.1\Macierze-C-sharp.genruntimeconfig.cache
